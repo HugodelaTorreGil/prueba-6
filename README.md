@@ -5,5 +5,5 @@
 
 > Este texto no tiene tanta importancia
 
-Estudio en el (IES Pablo Picasso)[https://fpiespablopicasso.es/]
+Estudio en el [IES Pablo Picasso](https://fpiespablopicasso.es/)
 
