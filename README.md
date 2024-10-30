@@ -11,3 +11,14 @@ Este es uno de mis gustos
 ![Error al cargar la imagen](./images/grinch-cai_98.webp)
 
 Soy una persona muy social y amigable :stuck_out_tongue_winking_eye: :v:
+
+```
+git add .
+git commit -m
+git push
+
+```
+
+- 1
++ 2
+* 3
