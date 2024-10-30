@@ -7,3 +7,5 @@
 
 Estudio en el [IES Pablo Picasso](https://fpiespablopicasso.es/)
 
+Este es uno de mis gustos 
+![Prueba](./images/grinch-cai_98.webp)
