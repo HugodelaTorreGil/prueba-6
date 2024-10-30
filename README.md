@@ -8,4 +8,6 @@
 Estudio en el [IES Pablo Picasso](https://fpiespablopicasso.es/)
 
 Este es uno de mis gustos 
-![Prueba](./images/grinch-cai_98.webp)
+![Error al cargar la imagen](./images/grinch-cai_98.webp)
+
+Soy una persona muy social y amigable :stuck_out_tongue_winking_eye: :v:
